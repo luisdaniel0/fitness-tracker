@@ -7,4 +7,6 @@ Fullstack application for fitness tracking
 - React-Vite
 - NodeJS
 
+Deploy Link coming soon!
+
 
